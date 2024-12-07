@@ -35,7 +35,7 @@ Burada ilk videoyu bitirdik! Peki neler ogrendik?
 
 İkinci videoda dikkat (attention) mekanizmasıni kodluyoruz. Baştan başlayıp attention nasıl çalıştığını anlatıyoruz. Daha fazla bilgi için makaleye [buradan](https://arxiv.org/abs/1706.03762) göz atabilirsiniz:
 
-- [Colab linki] (https://colab.research.google.com/drive/1XuKz_puqsDnpLSAijQlMmd4N1tOHinMI?usp=sharing)
+[Colab linki](https://colab.research.google.com/drive/1XuKz_puqsDnpLSAijQlMmd4N1tOHinMI?usp=sharing)
 
 ## Genel Bilgiler
 
