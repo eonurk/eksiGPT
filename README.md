@@ -10,7 +10,9 @@ Verisetimiz 700 adet ekşiseyler.com'dan indirdiğimiz makalelerden oluşuyor (3
 
 Umarım beğenirsiniz!
 
-[Nöral Ağlarla Ekşici Kodluyoruz (EkşiGPT)](https://youtu.be/L7rsPZ1bGHw): Tanıtım ve bigram model'in oluşturulması
+## [Nöral Ağlarla Ekşici Kodluyoruz (EkşiGPT)](https://youtu.be/L7rsPZ1bGHw)
+
+Tanıtım ve bigram model'in oluşturulması
 
 Burada ilk videoyu bitirdik! Peki neler ogrendik?
 
@@ -25,7 +27,11 @@ Burada ilk videoyu bitirdik! Peki neler ogrendik?
 
   yani, bir dökümandaki i sıradaki karakteri tahmin etmek için normalde ondan önceki tüm karakterleri bilmemiz gerekir ama burada sadece i-1 inci karakteri (yani tahmin edilenden sadece bir önceki) bilmenin tüm karakterleri bilmeye eşit olduğunu varsayıyoruz. Tabi bu bi noktaya kadar doğru ve çok da iyi bir model değil! Örneğin 'anen göteğ' tahmin etmesi gibi :D
 
-[İkinci Video - Yakında](#eksigpt): İkinci videoda dikkat (attention) mekanizmasıni ekleyeceğiz ve modelimizi daha da geliştireceğiz.
+## [Dikkat Algoritmasını Kodluyoruz! (EksiGPT)](https://www.youtube.com/watch?v=u168PH3rH7A&t=818s&ab_channel=OnurKarakaslar)
+
+İkinci videoda dikkat (attention) mekanizmasıni kodluyoruz. Baştan başlayıp attention nasıl çalıştığını anlatıyoruz. Daha fazla bilgi için makaleye [buradan](https://arxiv.org/abs/1706.03762) göz atabilirsiniz:
+
+- [Colab linki] (https://colab.research.google.com/drive/1XuKz_puqsDnpLSAijQlMmd4N1tOHinMI?usp=sharing)
 
 ## Genel Bilgiler
 
