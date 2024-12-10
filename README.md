@@ -37,6 +37,10 @@ Burada ilk videoyu bitirdik! Peki neler ogrendik?
 
 [Colab linki](https://colab.research.google.com/drive/1XuKz_puqsDnpLSAijQlMmd4N1tOHinMI?usp=sharing)
 
+## [Transformer Modeli Oluşturuyoruz! (YAKINDA)](#eksigpt)
+
+![alt text](data/more.png)
+
 ## Genel Bilgiler
 
 Discord Kanalımız: https://discord.gg/abCgk6hMqx
