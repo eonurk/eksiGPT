@@ -37,9 +37,11 @@ Burada ilk videoyu bitirdik! Peki neler ogrendik?
 
 [Colab linki](https://colab.research.google.com/drive/1XuKz_puqsDnpLSAijQlMmd4N1tOHinMI?usp=sharing)
 
-## [Transformer Modeli Oluşturuyoruz! (YAKINDA)](#eksigpt)
+## [Sonunda Bitti! Transformer Modeli Kodluyoruz.](https://youtu.be/MdmeArC3WMw?si=gpEZGkVST3JZpKG7)
 
-![alt text](data/more.png)
+[![Watch the video](https://img.youtube.com/vi/MdmeArC3WMw/maxresdefault.jpg)](https://youtu.be/MdmeArC3WMw?si=gpEZGkVST3JZpKG7)
+
+Son videoda Transformer modelini oluşturuyoruz! Bu videoda her şeyi bir araya getiriyoruz ve modeli tamamlayıp çalıştırıyoruz. Oluşturduğumuz tahminler [data/more2.txt dosyasında](data/more2.txt). Şimdilik bu kadar!
 
 ## Genel Bilgiler
 
